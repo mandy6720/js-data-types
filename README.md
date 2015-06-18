@@ -1,3 +1,13 @@
+## JavaScript - Data Types and TDD - Week 2 assignment 1
+
+### What I did
+
+For this assignment, we were given a bunch of empty functions that were not passing and needed to write the JavaScript code to make them pass. We learned how to use the principles of test driven development and how to start and run a basic web server via node.
+
+The original description is below.
+
+
+
 ## JavaScript - Data Types and TDD
 
 ### Description
